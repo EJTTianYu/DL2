@@ -1,0 +1,17 @@
+#文件夹
+.venv
+venv/
+.lab2
+lab2/
+.resources
+resources/
+
+.idea
+*.ipynb
+#文件
+*.pt
+*.zip
+*.jpg
+*.txt
+
+src/DL2/data
